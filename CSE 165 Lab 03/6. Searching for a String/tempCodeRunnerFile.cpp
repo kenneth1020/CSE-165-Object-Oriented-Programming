@@ -1,0 +1,1 @@
+string temp = words[i].substr(0, wordle.length());
